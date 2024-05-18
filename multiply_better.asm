@@ -1,0 +1,5 @@
+INP r1
+INP r2
+MUL r0 r1 r2
+OUT r0
+END
